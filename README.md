@@ -4,6 +4,8 @@ Projeto em React + Typescript fazendo uma calculadora de IMC.
 
 Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br).
 
+Deploy: https://644c3cfd79d5521b842bd5fb--jessicanicodemos-react-calc-imc.netlify.app/
+
 ### Instalação
 - `npm install`
 
